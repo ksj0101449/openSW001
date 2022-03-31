@@ -1,6 +1,6 @@
-# 미나리
-1. 학습시킬 데이터를 찾는다.
-2. 크롬브라우저를 가져온다.
-3. test
-4. save
-5. 기억하기
+# Human-Detection-in-ml5js-JavaScript
+[See the live demo](https://www.codespeedy.com/demophp/ml/humandetect.html)
+
+This smallproject is built using ml5js machine learning library. The ml5.js is built on top of TensorFlow.js library.
+
+[Learn more about this project](https://www.codespeedy.com/human-detection-in-webcam-in-javascript-with-ml5-js/)
